@@ -1,2 +1,2 @@
 # kMedoidsCalculator
-A kMedoids Calculator
+A kMedoids Calculator. Building.
